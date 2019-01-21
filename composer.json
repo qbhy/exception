@@ -1,0 +1,16 @@
+{
+    "name": "96qbhy/exception",
+    "description": "可渲染的PHP异常",
+    "authors": [
+        {
+            "name": "qbhy",
+            "email": "572490755@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "\\Qbhy\\Exception\\": "src"
+    }
+}
