@@ -11,6 +11,8 @@
         "php": ">=7.1"
     },
     "autoload": {
-        "\\Qbhy\\Exception\\": "src"
+        "psr-4": {
+            "\\Qbhy\\Exception\\": "src"
+        }
     }
 }
